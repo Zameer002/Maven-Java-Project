@@ -16,10 +16,10 @@
  </organization>
 
  <properties>
-          <sonar.host.url>http://18.217.179.158:9000/</sonar.host.url>
-          <sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>
-          <!--<sonar.login>admin</sonar.login>
-          <sonar.password>sonar</sonar.password>-->
+          <sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
+          <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
+          <sonar.login>admin</sonar.login>
+          <sonar.password>sonarqube</sonar.password>
 
                     <maven.compiler.source>6</maven.compiler.source>
                     <maven.compiler.target>1.6</maven.compiler.target>
