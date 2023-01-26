@@ -31,7 +31,7 @@
          the same report, so that, it will give the cross-module code coverage. -->
      	<sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
         <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
-	  <sonar.host.url>http://18.217.179.158:9000/</sonar.host.url>
+	  <sonar.host.url>http://18.217.179.158:9000</sonar.host.url>
 	  <sonar.admin>admin</sonar.admin>
 	  <sonar.password>sonar</sonar.password>
   </properties>
