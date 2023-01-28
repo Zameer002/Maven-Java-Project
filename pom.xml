@@ -17,7 +17,7 @@
 
  <!--<properties>
           <sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
-          <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
+          <sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>
           <sonar.login>admin</sonar.login>
           <sonar.password>sonarqube</sonar.password>
 
