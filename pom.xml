@@ -15,28 +15,28 @@
      <url>http://mithuntechnologies.com/</url>
  </organization>
 
- <!--<properties>
-          <sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
+ <properties>
+          <!--<sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
           <sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>
           <sonar.login>admin</sonar.login>
-          <sonar.password>sonarqube</sonar.password>
+          <sonar.password>sonarqube</sonar.password>-->
 
                     <maven.compiler.source>6</maven.compiler.source>
                     <maven.compiler.target>1.6</maven.compiler.target>
             <spring.version>4.1.4.RELEASE</spring.version>
                 <junit.version>4.11</junit.version>
                 <log4j.version>1.2.17</log4j.version>
-                  <sonar.host.url>http://localhost:9000/</sonar.host.url>
+                  <!--<sonar.host.url>http://localhost:9000/</sonar.host.url>-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-         Sonar The destination file for the code coverage report has to be set to the same value
+         <!--Sonar The destination file for the code coverage report has to be set to the same value
          in the parent pom and in each module pom. Then JaCoCo will add up information in
         the same report, so that, it will give the cross-module code coverage.
         <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itRe     portPath>
-        <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
+        <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>-->
 </properties>
--->
+
 
 <distributionManagement>
         <repository>
