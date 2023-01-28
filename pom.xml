@@ -15,7 +15,7 @@
      <url>http://mithuntechnologies.com/</url>
  </organization>
 
- <properties>
+ <!--<properties>
           <sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
           <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
           <sonar.login>admin</sonar.login>
@@ -36,7 +36,7 @@
         the same report, so that, it will give the cross-module code coverage.
         <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itRe     portPath>
         <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>-->
-</properties>
+</properties>-->
 
 <distributionManagement>
         <repository>
