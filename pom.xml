@@ -38,7 +38,7 @@
         <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>-->
 </properties>
 
-<distributionManagement>
+<!--<distributionManagement>
         <repository>
                 <id>new</id>
                 <name>Mithun</name>
@@ -51,7 +51,7 @@
                 <name>mithun</name>
                 <url>http://3.128.94.172:8081/repository/first/</url>
         </snapshotRepository>-->
-</distributionManagement>
+</distributionManagement>-->
 
 <!--<scm>
         <connection>scm:git:https://github.com/devopstrainingblr/Maven-Java-Project</connection>
