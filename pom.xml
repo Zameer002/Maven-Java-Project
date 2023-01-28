@@ -26,10 +26,9 @@
             <spring.version>4.1.4.RELEASE</spring.version>
                 <junit.version>4.11</junit.version>
                 <log4j.version>1.2.17</log4j.version>
-                <!--    <sonar.host.url>http://localhost:9000/</sonar.host.url>
+                  <sonar.host.url>http://localhost:9000/</sonar.host.url>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
--->
 
         <!--Sonar
         The destination file for the code coverage report has to be set to the same value
@@ -37,7 +36,8 @@
         the same report, so that, it will give the cross-module code coverage.
         <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itRe     portPath>
         <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>-->
-</properties>-->
+</properties>
+-->
 
 <distributionManagement>
         <repository>
