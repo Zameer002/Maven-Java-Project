@@ -46,11 +46,11 @@
 
         </repository>
 
-        <!--    <snapshotRepository>
+         <snapshotRepository>
                 <id>new</id>
                 <name>mithun</name>
                 <url>http://3.128.94.172:8081/repository/first/</url>
-        </snapshotRepository>-->
+        </snapshotRepository>
 </distributionManagement>-->
 
 <!--<scm>
