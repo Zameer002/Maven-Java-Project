@@ -19,7 +19,7 @@
           <sonar.host.url>http://18.117.166.47:9000/</sonar.host.url>
           <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
           <sonar.login>admin</sonar.login>
-          <sonar.password>sonarqube</sonar.password>-->
+          <sonar.password>sonarqube</sonar.password>
 
                     <maven.compiler.source>6</maven.compiler.source>
                     <maven.compiler.target>1.6</maven.compiler.target>
