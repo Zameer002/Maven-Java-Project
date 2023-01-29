@@ -14,6 +14,11 @@
      <name>Mithun Technologies</name>
      <url>http://mithuntechnologies.com/</url>
  </organization>
+         
+         <plugin>
+  <artifactId>maven-war-plugin</artifactId>
+  <version>3.0.0</version>
+</plugin>
 
  <properties>
           <sonar.host.url>http://18.117.166.47:9000/</sonar.host.url>
