@@ -15,10 +15,14 @@
      <url>http://mithuntechnologies.com/</url>
  </organization>
          
+         <build>
+                  <plugins>
          <plugin>
   <artifactId>maven-war-plugin</artifactId>
   <version>3.0.0</version>
 </plugin>
+                  </plugins>
+         </build>
 
  <properties>
           <sonar.host.url>http://18.117.166.47:9000/</sonar.host.url>
