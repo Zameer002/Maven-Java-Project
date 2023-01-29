@@ -16,8 +16,8 @@
  </organization>
 
  <properties>
-          <!--<sonar.host.url>http://3.16.75.175:9000/</sonar.host.url>
-          <sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>
+          <sonar.host.url>http://18.117.166.47:9000/</sonar.host.url>
+          <!--<sonar.login>squ_48dc500fa8c6bc1826ae64109a1614df3da3617a</sonar.login>-->
           <sonar.login>admin</sonar.login>
           <sonar.password>sonarqube</sonar.password>-->
 
@@ -42,7 +42,7 @@
         <repository>
                 <id>new</id>
                 <name>Mithun</name>
-                <url>http://3.128.94.172:8081/repository/second/amazon</url>
+                <url>http://18.216.136.204:8081/repository/third/</url>
 
         </repository>
 
