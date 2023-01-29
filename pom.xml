@@ -58,7 +58,7 @@
          <snapshotRepository>
                 <id>new</id>
                 <name>mithun</name>
-                <url>http://3.142.198.112:8081/repository/fourth/</url>
+                <url>http://18.216.136.204:8081/repository/third/</url>
         </snapshotRepository>
 </distributionManagement>
 
